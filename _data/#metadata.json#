@@ -1,0 +1,15 @@
+{
+  "title": "Phil Hunt",
+  "url": "https://www.phil-hunt.net/",
+  "description": "Agile, Cloud, DevOps and Systems Engineering",
+  "feed": {
+    "subtitle": "Agile, Cloud, DevOps and Systems Engineering",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://www.phil-hunt.net/"
+  },
+  "author": {
+    "name": "Phil Hunt",
+    "email": "phil@phil-hunt.net"git 
+  }
+}
